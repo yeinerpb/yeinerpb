@@ -1,14 +1,17 @@
-<h1 align="center" style="animation: color-shift 5s ease-in-out infinite; font-size: 40px;">Hi 👋, I'm Yeiner</h1>
-<style>
-  @keyframes color-shift {
-    0% { color: red; }
-    20% { color: orange; }
-    40% { color: yellow; }
-    60% { color: green; }
-    80% { color: blue; }
-    100% { color: purple; }
-  }
-</style>
+<h1 align="center" style="font-size: 40px; color: red; animation: color-shift 5s ease-in-out infinite;">
+  <style>
+    @keyframes color-shift {
+      0% { color: red; }
+      20% { color: orange; }
+      40% { color: yellow; }
+      60% { color: green; }
+      80% { color: blue; }
+      100% { color: purple; }
+    }
+  </style>
+  Hi 👋, I'm Yeiner
+</h1>
+
 
 <h3 align="center" style="color: #777; font-weight: 600; font-size: 25px;">Full-stack developer from Colombia, dedicated to crafting exceptional digital solutions.</h3>
 
