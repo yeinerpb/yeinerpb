@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 40px; color: #FF0000; text-shadow: 2px 2px 4px #FF0000;">Hi 👋, I'm Yeiner</h1>
+<h1 align="center" style="color: #B22222;">Hi 👋, I'm Yeiner</h1>
 
 
 <h3 align="center" style="color: #777; font-weight: 600; font-size: 25px;">Full-stack developer from Colombia, dedicated to crafting exceptional digital solutions.</h3>
