@@ -1,9 +1,20 @@
-<h1 align="center">Hi 👋, I'm Yeiner</h1>
-<h3 align="center">Full-stack developer from Colombia, dedicated to crafting exceptional digital solutions.</h3>
+<h1 align="center" style="animation: color-shift 5s ease-in-out infinite; font-size: 40px;">Hi 👋, I'm Yeiner</h1>
+<style>
+  @keyframes color-shift {
+    0% { color: red; }
+    20% { color: orange; }
+    40% { color: yellow; }
+    60% { color: green; }
+    80% { color: blue; }
+    100% { color: purple; }
+  }
+</style>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeinerpb&label=Profile%20views&color=0e75b6&style=flat" alt="yeinerpb" /> </p>
+<h3 align="center" style="color: #777; font-weight: 600; font-size: 25px;">Full-stack developer from Colombia, dedicated to crafting exceptional digital solutions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeinerpb" alt="yeinerpb" /></a> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=yeinerpb&label=Profile%20views&color=0e75b6&style=flat" alt="yeinerpb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=yeinerpb" alt="yeinerpb" /></a> </p>
 
 - 🔭 I’m currently working on [MediPro](https://magnificent-khapse-709c31.netlify.app/)
 
