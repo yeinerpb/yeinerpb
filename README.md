@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [MediPro](https://magnificent-khapse-709c31.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://ypbportfolio.netlify.app](https://ypbportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://yeinerparra.netlify.app/](https://yeinerparra.netlify.app/)
 
 - 💬 Ask me about **React, Angular, Node.js, Python, FastAPI**
 
