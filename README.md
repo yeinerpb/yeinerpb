@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 40px; color: red; text-shadow: 2px 2px 4px #fff;">Hi 👋, I'm Yeiner</h1>
+<h1 align="center" style="color: #B22222;">Hi 👋, I'm Yeiner!</h1>
 
 
 <h3 align="center" style="color: #777; font-weight: 600; font-size: 25px;">Full-stack developer from Colombia, dedicated to crafting exceptional digital solutions.</h3>
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [MediPro](https://magnificent-khapse-709c31.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://ypbportfolio.netlify.app](https://ypbportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://yeinerparra.netlify.app/](https://yeinerparra.netlify.app/)
 
 - 💬 Ask me about **React, Angular, Node.js, Python, Django**
 
@@ -24,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yeiner parra bernal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeiner parra bernal" height="30" width="40" /></a>
-<a href="https://instagram.com/yeiner_pb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeiner_pb" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yeinerpb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeiner parra" height="30" width="40" /></a>
+<a href="https://instagram.com/yeiner.pb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeiner.pb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
