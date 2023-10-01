@@ -3,6 +3,11 @@
 
 <h3 align="center" style="color: #777; font-weight: 600; font-size: 25px;">Full-stack developer from Colombia, dedicated to crafting exceptional digital solutions.</h3>
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/yeinerpb/yeinerpb/main/bannerprofile.png" width="100%"/>
+</h1>
+
+
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=yeinerpb&label=Profile%20views&color=0e75b6&style=flat" alt="yeinerpb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=yeinerpb" alt="yeinerpb" /></a> </p>
@@ -11,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ypbportfolio.netlify.app](https://ypbportfolio.netlify.app)
 
-- 💬 Ask me about **React, Angular, Node.js, Python, FastAPI**
+- 💬 Ask me about **React, Angular, Node.js, Python, Django**
 
 - 📫 How to reach me **yeinerparrabernal@gmail.com**
 
