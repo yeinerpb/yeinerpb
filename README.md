@@ -3,10 +3,6 @@
 
 <h3 align="center" style="color: #777; font-weight: 600; font-size: 25px;">Full-stack developer from Colombia, dedicated to crafting exceptional digital solutions.</h3>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/yeinerpb/yeinerpb/main/bannerprofile.png" width="100%"/>
-</h1>
-
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=yeinerpb&label=Profile%20views&color=E5472B&style=flat" alt="yeinerpb" /> </p>
 
