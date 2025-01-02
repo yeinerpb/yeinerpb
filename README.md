@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=yeinerpb" alt="yeinerpb" /></a> </p>
 
-- 🔭 I’m currently working on [MediPro](https://magnificent-khapse-709c31.netlify.app/)
+- 🔭 I’m currently working on [VetConnet](http://vetconnect-front-dev.s3-website-us-east-1.amazonaws.com/dashboard)
 
 - 👨‍💻 All of my projects are available at [https://yeinerparra.netlify.app/](https://yeinerparra.netlify.app/)
 
